@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SreeProdApp.iml" filepath="$PROJECT_DIR$/.idea/modules/SreeProdApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SreeProdApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SreeProdApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SreeProdApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SreeProdApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SreeProdApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SreeProdApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SreeProdApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SreeProdApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
