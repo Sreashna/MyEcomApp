@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_laptop.png.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/laptop.png"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_ban3.jpg.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/ban3.jpg"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_speak.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/speak.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_ban1.jpg.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/ban1.jpg"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/xml_backup_rules.xml.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/font_font.ttf.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/font/font.ttf"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_ban.jpg.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/ban.jpg"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_pods.png.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/pods.png"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_profile.jpeg.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/profile.jpeg"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_laps.jpg.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/laps.jpg"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_banner.png.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/banner.png"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_xbox.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/xbox.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_mobile.png.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/mobile.png"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_controller.png.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/controller.png"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/xml_data_extraction_rules.xml.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_lap.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/lap.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_mac.jpeg.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/mac.jpeg"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_laptops.png.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/laptops.png"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_ic_launcher_background.xml.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_airpods.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/airpods.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_ban2.jpg.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/ban2.jpg"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_front.jpg.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/front.jpg"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_speaker.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/speaker.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sree.ddukk.sreeprodapp-debug-65:/drawable_iphone.webp.flat",
+        "source": "sree.ddukk.sreeprodapp-main-67:/drawable/iphone.webp"
+    }
+]
